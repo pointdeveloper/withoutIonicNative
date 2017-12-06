@@ -1,4 +1,4 @@
-# Ionic Vibrate On Tap
+# Ionic Plugins Without Ionic Native
 Files for tutorial at http://pointdeveloper.com/using-plugins-without-ionic-native-in-ionic/
 
 <br/>
